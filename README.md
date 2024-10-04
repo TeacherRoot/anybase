@@ -49,10 +49,7 @@ Z0 36 10
 Y0 35 10
 FC 16 34
 
-
 ### Sample Output :
-
- 
 
 The following output is by Mrs. Root:
 10 in base 10 is  1010 in base 2
